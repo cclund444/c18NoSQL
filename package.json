@@ -18,8 +18,9 @@
   },
   "homepage": "https://github.com/cclund444/c18NoSQL#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.2",
     "insomnia": "0.0.1",
-    "mongoose": "^6.1.1"
+    "mongoose": "^5.13.14",
+    "node.js": "0.0.1-security"
   }
 }
