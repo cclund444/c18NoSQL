@@ -22,6 +22,7 @@
     "express": "^4.17.2",
     "insomnia": "0.0.1",
     "mongoose": "^5.13.14",
-    "node.js": "0.0.1-security"
+    "node.js": "0.0.1-security",
+    "update": "^0.7.4"
   }
 }
