@@ -23,4 +23,4 @@ Links:
 (repo) https://github.com/cclund444/c18NoSQL
 
 Walkthrough Video:
-<img src=" "/>
+<img src="https://watch.screencastify.com/v/vMRxjGIZQXRboqdJvgmm "/>
